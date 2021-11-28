@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Aditya Mishra</title>
-    <link>https://kratos2597/github.io/Aditya_Portfolio.com/about/</link>
+    <link>https://kratos2597.github.io/Aditya_Portfolio/about/</link>
     <description>Recent content in About on Aditya Mishra</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kratos2597/github.io/Aditya_Portfolio.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kratos2597.github.io/Aditya_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Read on Aditya Mishra</title>
-    <link>https://kratos2597/github.io/Aditya_Portfolio.com/tags/read/</link>
+    <link>https://kratos2597.github.io/Aditya_Portfolio/tags/read/</link>
     <description>Recent content in Read on Aditya Mishra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://kratos2597/github.io/Aditya_Portfolio.com/tags/read/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://kratos2597.github.io/Aditya_Portfolio/tags/read/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I: Airbnb Data Analaysis And Price Prediction</title>
-      <link>https://kratos2597/github.io/Aditya_Portfolio.com/post/chapter-1/</link>
+      <link>https://kratos2597.github.io/Aditya_Portfolio/post/chapter-1/</link>
       <pubDate>Sun, 09 Aug 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://kratos2597/github.io/Aditya_Portfolio.com/post/chapter-1/</guid>
+      <guid>https://kratos2597.github.io/Aditya_Portfolio/post/chapter-1/</guid>
       <description>Data Sorurce: Kaggle About Project:  This Project was taken up to perform analysis on the AirBnb Data set. the Airbnb Dataset had lot of categorical and numeric variables. the variables which were very highly correlated were removed in order to send distinct data out to the users. Data Analysis on the customer feedback, customer rating was performed to get more insights on the data. After data cleaning and processing we started modeling to predict the prices following were the algorithms used:  We first tested out the whole process with the basic logistics regression.</description>
     </item>
     
